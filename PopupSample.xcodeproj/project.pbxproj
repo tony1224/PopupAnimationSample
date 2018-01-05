@@ -12,6 +12,7 @@
 		533A70031FFF7C2A00235FD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 533A70011FFF7C2A00235FD7 /* Main.storyboard */; };
 		533A70051FFF7C2A00235FD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 533A70041FFF7C2A00235FD7 /* Assets.xcassets */; };
 		533A70081FFF7C2A00235FD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 533A70061FFF7C2A00235FD7 /* LaunchScreen.storyboard */; };
+		533A70101FFF7C8600235FD7 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533A700F1FFF7C8600235FD7 /* PopupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		533A70041FFF7C2A00235FD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		533A70071FFF7C2A00235FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		533A70091FFF7C2A00235FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		533A700F1FFF7C8600235FD7 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				533A6FFD1FFF7C2A00235FD7 /* AppDelegate.swift */,
 				533A6FFF1FFF7C2A00235FD7 /* ViewController.swift */,
+				533A700F1FFF7C8600235FD7 /* PopupViewController.swift */,
 				533A70011FFF7C2A00235FD7 /* Main.storyboard */,
 				533A70041FFF7C2A00235FD7 /* Assets.xcassets */,
 				533A70061FFF7C2A00235FD7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				533A70001FFF7C2A00235FD7 /* ViewController.swift in Sources */,
 				533A6FFE1FFF7C2A00235FD7 /* AppDelegate.swift in Sources */,
+				533A70101FFF7C8600235FD7 /* PopupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
